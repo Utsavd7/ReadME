@@ -8,5 +8,5 @@
 
 <h2 align="center">Hello there! My name is Utsav Doshi. ✌️😀</h2>
 <p align="center">I'm a student pursuing CSE with specialization in AIML from India. 
-I currently passionate about Coding, Photography, Designing,      Car Watching, Trekking and Automation.</br>
+I am currently passionate about Coding, Photography, Designing,      Car Watching, Trekking and Automation.</br>
 When I'm not developing and building things, you can find me on my photography account- "www.instagram.com/tilted_tripods_/". But most of my days are spent working on projects, listening to spotify, Studying or watching.</p>
